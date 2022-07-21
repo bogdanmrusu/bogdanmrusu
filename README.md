@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bogdanmrusu
-- 👀 I’m interested in Spark, Scala, AWS, Data Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on long term projects
+- 👀 I’m interested in Data Engineering, Spark, Databricks, Delta, Scala 
 - 📫 How to reach me bogdan.rusu.dev@gmail.com
 
 <!---
